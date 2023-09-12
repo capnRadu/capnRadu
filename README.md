@@ -8,7 +8,7 @@
 </a>  
   
 ## Glad to see you here!  
-I’m a first-year student on my path to perfecting my skills. I have experience with many different aspects of game development and I am familiar with programs and methodologies used in this domain. Currently, I am working on developing my game programming and 3D modeling skills!  
+I’m a second-year student on my path to perfecting my skills. I have experience with many different aspects of game development and I am familiar with programs and methodologies used in this domain. Currently, I am working on developing my game programming and 3D modeling skills!  
   
 <br/>  
 
