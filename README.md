@@ -1,14 +1,11 @@
 ![Header](./header.png)
  
-<a href="https://github.com/capnRadu" target="_blank">
- <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/raduduicu" target="_blank">
  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
 ## Glad to see you here!  
-I’m a second-year student on my path to perfecting my skills. I have experience with many different aspects of game development and I am familiar with programs and methodologies used in this domain. Currently, I am working on developing my game programming and 3D modeling skills!  
+I’m a second-year student on my path to perfecting my skills. I have experience with many different aspects of game development and I am familiar with programs and methodologies used in this domain. Currently, I am working on developing my game programming skills!  
   
 <br/>  
 
