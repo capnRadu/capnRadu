@@ -5,7 +5,7 @@
 </a>  
   
 ## Glad to see you here!  
-I’m a second-year student on my path to perfecting my skills. I have experience with many different aspects of game development and I am familiar with programs and methodologies used in this domain. Currently, I am working on developing my game programming skills!  
+I’m a third-year student on my path to perfecting my abilities. I have experience with many different aspects of game development and I am familiar with programs and methodologies used in this domain. Currently, I am working on developing my game programming skills!  
   
 <br/>  
 
@@ -37,9 +37,3 @@ I’m a second-year student on my path to perfecting my skills. I have experienc
 </div>
  
 <br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=capnRadu&&style=flat-square" align="center" />
-</div>  
-  
-<br/> 
